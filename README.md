@@ -8,7 +8,7 @@
     href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
   <link rel="stylesheet"
     href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/highlight.css">
- 
+
 
 </head>
 
@@ -26,7 +26,5 @@
         href="https://www.facebook.com/neherdata">Facebook</a> • <a href="https://instagram.com/neherdata">Instagram</a>
     </p>
 
-
 <h1 align="center">MapLibre GL JS</h1>
 <h2 align="center"><i><a href="https://maplibre-maps.neherdata.com">maplibre-maps.neherdata.com</a></i></h2>
-
