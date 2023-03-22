@@ -2,7 +2,7 @@
 <html lang="en-US">
 
 <head>
-  <meta charset="utf-8">
+  <meta charset="UTF-8">
 
   <link rel="stylesheet"
     href="https://cdn.jsdelivr.net/gh/Microsoft/vscode/extensions/markdown-language-features/media/markdown.css">
